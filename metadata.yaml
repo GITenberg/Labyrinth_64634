@@ -1,0 +1,31 @@
+_repo: Labyrinth_64634
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hull, Helen R. (Helen Rose)
+    alias: Hull, Helen Rose
+    birthdate: 1888
+    deathdate: 1971
+    gutenberg_agent_id: '52995'
+    url: http://www.gutenberg.org/2009/agents/52995
+    wikipedia: https://en.wikipedia.org/wiki/Helen_Rose_Hull
+description: ''
+gutenberg_issued: '2021-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64634'
+  lccn: '23013891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Women -- Employment -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Mothers -- Fiction'
+- !lcsh 'United States -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Labyrinth
+url: http://www.gutenberg.org/ebooks/64634
